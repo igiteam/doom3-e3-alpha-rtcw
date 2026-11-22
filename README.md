@@ -1,3 +1,43 @@
+# doom3-e3-alpha-rtcw
+## Doom3 – Return To Castle Wolfeinstein Remake
+A total conversion mod for Doom3 that remakes the 2001 game Return To Castle Wolfeinstein (RTCW), recreating its missions, environments, weapons, vehicles, and World War II combat experience in the Doom3 idtech4 engine.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/doom3-e3-alpha-rtcw](https://treegit.macosxjs.com/?url=igiteam/doom3-e3-alpha-rtcw)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/doom3-e3-alpha-rtcw/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/doom3-e3-alpha-rtcw/git/trees/main?recursive=1)
+
+## RTCW webassembly
+[https://wwasm.m-h.org.uk/](https://wwasm.m-h.org.uk/)
+
+[https://wasm.continuation-labs.com/d3demo/](https://wasm.continuation-labs.com/d3demo/)
+
+## Base gameplay
+[![DOOM3: E3 Demo Alpha](https://img.youtube.com/vi/D6NDKmkshe0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?RDZOREtta3NoZTA)
+
+[![DOOM3 Legs](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3_legs.jpg)](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3_legs.jpg)
+
+[![Doom 3 Revised IV: Return of the Lazy Updates](https://img.youtube.com/vi/zvikQhEHe54/maxresdefault.jpg)](https://ytembed.macosxjs.com/?enZpa1FoRUhlNTQ)
+
+[![Return to Castle Wolfenstein - Full Game Walkthrough](https://img.youtube.com/vi/1JGzYCWlYto/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MUpHellDV2xZdG8)
+
+
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+
+## Reference links
+[https://www.moddb.com/games/doom-iii/downloads/doom-3-002-2002-07-23-alpha-e3](https://www.moddb.com/games/doom-iii/downloads/doom-3-002-2002-07-23-alpha-e3)
+
+[https://github.com/igiteam/doom3-e3-alpha-rtcw/blob/master/fullbody_d3classic.7z](https://github.com/igiteam/doom3-e3-alpha-rtcw/blob/master/fullbody_d3classic.7z)
+
+[![Making a piece of terrain in RTCW!](https://img.youtube.com/vi/V0t09kMG20s/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VjB0MDlrTUcyMHM)
+
+[![Doom 3 Radiant in DirectX 12 + Raytracing (DXR) — First Ever Real-Time RT Radiant Editor](https://img.youtube.com/vi/CVuRuBxhbUQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Q1Z1UnVCeGhiVVE)
+
 # ABOUT
 
 _dhewm 3_ is a _Doom 3_ GPL source port, known to work on at least Windows, Linux, macOS and FreeBSD.
@@ -456,3 +496,38 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 neo/sys/linux/setup/makeself/*, neo/sys/linux/setup/makeself/README
 Copyright (c) Stéphane Peter
 Licensing: GPL v2
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
