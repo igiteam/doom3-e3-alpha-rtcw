@@ -18,7 +18,7 @@ A total conversion mod for Doom3 that remakes the 2001 game Return To Castle Wol
 
 [![DOOM3 Legs](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3_legs.jpg)](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3_legs.jpg)
 
-[![Doom 3 Revised IV: Return of the Lazy Updates](https://img.youtube.com/vi/zvikQhEHe54/maxresdefault.jpg)](https://ytembed.macosxjs.com/?enZpa1FoRUhlNTQ)
+[![Doom 3 Revised IV: Return of the Lazy Updates](https://img.youtube.com/vi/zvikQhEHe54/hqdefault.jpg)](https://ytembed.macosxjs.com/?enZpa1FoRUhlNTQ)
 
 [![Return to Castle Wolfenstein - Full Game Walkthrough](https://img.youtube.com/vi/1JGzYCWlYto/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MUpHellDV2xZdG8)
 
