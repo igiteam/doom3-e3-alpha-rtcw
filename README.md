@@ -14,7 +14,7 @@ A total conversion mod for Doom3 that remakes the 2001 game Return To Castle Wol
 [https://wasm.continuation-labs.com/d3demo/](https://wasm.continuation-labs.com/d3demo/)
 
 ## Base gameplay
-[![DOOM3: E3 Demo Alpha](https://img.youtube.com/vi/D6NDKmkshe0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?RDZOREtta3NoZTA)
+[![DOOM3: E3 Demo Alpha](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3-alpha-e3.jpg)](https://ytembed.macosxjs.com/?RDZOREtta3NoZTA)
 
 [![DOOM3 Legs](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3_legs.jpg)](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3_legs.jpg)
 
