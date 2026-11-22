@@ -14,13 +14,15 @@ A total conversion mod for Doom3 that remakes the 2001 game Return To Castle Wol
 [https://wasm.continuation-labs.com/d3demo/](https://wasm.continuation-labs.com/d3demo/)
 
 ## Base gameplay
-[![DOOM3: E3 Demo Alpha](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3-alpha-e3.jpg)](https://ytembed.macosxjs.com/?RDZOREtta3NoZTA)
+[![DOOM3: E3 Demo Alpha](https://img.youtube.com/vi/D6NDKmkshe0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?RDZOREtta3NoZTA)
 
 [![DOOM3 Legs](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3_legs.jpg)](https://raw.githubusercontent.com/igiteam/doom3-e3-alpha-rtcw/refs/heads/master/doom3_legs.jpg)
 
 [![Doom 3 Revised IV: Return of the Lazy Updates](https://img.youtube.com/vi/zvikQhEHe54/hqdefault.jpg)](https://ytembed.macosxjs.com/?enZpa1FoRUhlNTQ)
 
 [![Return to Castle Wolfenstein - Full Game Walkthrough](https://img.youtube.com/vi/1JGzYCWlYto/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MUpHellDV2xZdG8)
+
+[![Quake 3 Engine Games - Map file cross compatibility test (+ Quake 1, 2, 4, Doom 3)](https://img.youtube.com/vi/lBebakDRehc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?bEJlYmFrRFJlaGM)
 
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
@@ -34,9 +36,21 @@ A total conversion mod for Doom3 that remakes the 2001 game Return To Castle Wol
 
 [https://github.com/igiteam/doom3-e3-alpha-rtcw/blob/master/fullbody_d3classic.7z](https://github.com/igiteam/doom3-e3-alpha-rtcw/blob/master/fullbody_d3classic.7z)
 
+[https://archive.org/details/doom-3_202510](https://archive.org/details/doom-3_202510)
+
+[https://archive.org/details/doom-iii-alpha-0.02-e-3-demo-2002](https://archive.org/details/doom-iii-alpha-0.02-e-3-demo-2002)
+
+[https://archive.org/details/d-3-alphabeta-2x](https://archive.org/details/d-3-alphabeta-2x)
+
+[https://archive.org/details/RCWUSA](https://archive.org/details/RCWUSA)
+
+[https://github.com/igiteam/rtcw_wwasm](https://github.com/igiteam/rtcw_wwasm)
+
 [![Making a piece of terrain in RTCW!](https://img.youtube.com/vi/V0t09kMG20s/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VjB0MDlrTUcyMHM)
 
 [![Doom 3 Radiant in DirectX 12 + Raytracing (DXR) — First Ever Real-Time RT Radiant Editor](https://img.youtube.com/vi/CVuRuBxhbUQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Q1Z1UnVCeGhiVVE)
+
+
 
 # ABOUT
 
