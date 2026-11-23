@@ -46,6 +46,8 @@ A total conversion mod for Doom3 that remakes the 2001 game Return To Castle Wol
 
 [https://github.com/igiteam/rtcw_wwasm](https://github.com/igiteam/rtcw_wwasm)
 
+[Q3Radiant Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFWb0B0dfEO_vb9Fw7zmJzG)
+
 [![Making a piece of terrain in RTCW!](https://img.youtube.com/vi/V0t09kMG20s/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VjB0MDlrTUcyMHM)
 
 [![Doom 3 Radiant in DirectX 12 + Raytracing (DXR) — First Ever Real-Time RT Radiant Editor](https://img.youtube.com/vi/CVuRuBxhbUQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Q1Z1UnVCeGhiVVE)
